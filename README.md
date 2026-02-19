@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MemorMe
 
 极致轻量的 AI 记忆系统，专为 [Model Context Protocol (MCP)](https://modelcontextprotocol.io) 设计。

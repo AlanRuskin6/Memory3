@@ -1,7 +1,7 @@
 
 # MemorMe
 
-极致轻量的 AI 记忆系统，专为 [Model Context Protocol (MCP)](https://modelcontextprotocol.io) 设计。
+ AI 记忆系统
 
 语义记忆存储与混合搜索，完全本地运行，无需 Docker 或云服务。
 
